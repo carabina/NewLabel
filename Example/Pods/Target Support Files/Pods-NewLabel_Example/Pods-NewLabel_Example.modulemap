@@ -1,0 +1,6 @@
+framework module Pods_NewLabel_Example {
+  umbrella header "Pods-NewLabel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

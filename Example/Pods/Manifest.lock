@@ -1,0 +1,16 @@
+PODS:
+  - NewLabel (0.1.0)
+
+DEPENDENCIES:
+  - NewLabel (from `../`)
+
+EXTERNAL SOURCES:
+  NewLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NewLabel: 2d7ca39e200dbba2c28d0b605617e796824c0da8
+
+PODFILE CHECKSUM: 96b82727f14bff1f384515f3dc0c3ed183f4d431
+
+COCOAPODS: 1.2.0

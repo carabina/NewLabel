@@ -1,0 +1,22 @@
+{
+  "name": "NewLabel",
+  "version": "0.1.0",
+  "summary": "A short description of NewLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/paulsoham/NewLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "paulsoham": "Amit99.Kumar99@cognizant.com"
+  },
+  "source": {
+    "git": "https://github.com/paulsoham/NewLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NewLabel/Classes/**/*"
+}

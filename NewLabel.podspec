@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'NewLabel'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of NewLabel.'
+  s.summary          = 'A subclass on UILabel that provides a blink.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,14 +17,12 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'It will create an animated Label'
 
   s.homepage         = 'https://github.com/paulsoham/NewLabel'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'paulsoham' => 'Amit99.Kumar99@cognizant.com' }
+  s.author           = { 'paulsoham' => 'paulsoham@gmail.com' }
   s.source           = { :git => 'https://github.com/paulsoham/NewLabel.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
