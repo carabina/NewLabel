@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NewLabel_Example' do
+  pod 'NewLabel', :path => '../'
+
+  target 'NewLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
